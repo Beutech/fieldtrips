@@ -1,0 +1,9 @@
+.main{
+    color: black;
+    font-weight: 800;
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 300px;
+}
